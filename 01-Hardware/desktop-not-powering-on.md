@@ -10,8 +10,8 @@ Desktop Not Powering On — Troubleshooting
 6) Run hardware diagnostics / escalate – If there is still no power, test with a known-good power cable/PSU where permitted and escalate to the hardware team/vendor if required.
 7) Check D cable connection
 
-PSU = Power Supply Unit
-SMPS = Switched-Mode Power Supply
+- PSU = Power Supply Unit
+- SMPS = Switched-Mode Power Supply
 
 Interview line:
 
