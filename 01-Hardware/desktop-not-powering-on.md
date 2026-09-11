@@ -9,6 +9,9 @@ Desktop Not Powering On — Troubleshooting
 5) Remove external devices – Disconnect USB devices, docking devices, and other peripherals, then try powering on again.
 6) Run hardware diagnostics / escalate – If there is still no power, test with a known-good power cable/PSU where permitted and escalate to the hardware team/vendor if required.
 
+PSU = Power Supply Unit
+SMPS = Switched-Mode Power Supply
+
 Interview line:
 
 “I would first isolate whether the issue is with the power source, cable, PSU, power button, or internal hardware before escalating.”
