@@ -34,6 +34,12 @@ Right-click on Print Spooler and select Stop.
 <img width="922" height="928" alt="printer-spooler-1" src="https://github.com/user-attachments/assets/f29333b2-e572-4c50-8705-d4d6b57dcbb1" />
 
 
+
+- Get-Service 
+- Get-Service -Name Spooler
+
+
+
 Clear Stuck Print Files
 Press the Windows Key + R again.
 Type %windir%\system32\spool\PRINTERS and press Enter.
