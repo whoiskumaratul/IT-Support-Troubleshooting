@@ -37,7 +37,7 @@ Right-click on Print Spooler and select Stop.
 
 - Get-Service 
 - Get-Service -Name Spooler
-
+- Set-Service -Name Spooler -StartupType Automatic
 
 
 Clear Stuck Print Files
