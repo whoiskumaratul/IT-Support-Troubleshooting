@@ -5,6 +5,10 @@
 For on-boarding part whenever we will imaging the OS installation by windows deployment service (by network or server) we will try to enable the PXE boot priority
 enable.
 
+
+When enabled, if a new PXE boot option is detected, it will be added to the top of the boot sequence. When forced, any PXE boot option will be on the opt of the boot sequence, and any external PXE boot option(s) have the higher boot priority then any internal PXE boot option(s). OS installation will not change the PXE boot option priority.
+
+
 For this part - dell laptop 
 
 - turn on the laptop
