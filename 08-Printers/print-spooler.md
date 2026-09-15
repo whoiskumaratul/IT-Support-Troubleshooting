@@ -7,6 +7,8 @@ First of all printer should be turn on and connected to the network so you can c
 - Preferences -> network -> TCP/IP setting -> TCP IPv4 or TCP IPv6 -> IPv4 -> IP you can check whether IP is assigned or not and you can also check DHCP
   setting is enabled
 
+- Setting -> Personal setting -> Preferences -> Network -> TCP/IP Settings -> IPv4 Setting -> IP Address Settings -> you will get IP Address, Subnet Mask, Gateway Address and there are two options for   
+
 - any error message is showing like Paper Jam,Printer in Error State, something like that. So suppose that Paper jam is there as per new tech canon printer
   some error like paper jam and for troubleshooting video is showing how can i pull out paper for fix the paper jam issue.
 
