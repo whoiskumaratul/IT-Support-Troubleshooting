@@ -20,6 +20,13 @@
 
 
 
+# How to Remove the SCCM by Client Side
+
+
+in C drive -> windows -> ccmsetup -> find this one ccmsetup.exe - open cmd in same directory -> type ccmsetup.exe /uninstall 
+
+
+
 # Re-imaging the OS (win 11)
 
 
