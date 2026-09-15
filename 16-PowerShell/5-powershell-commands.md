@@ -19,12 +19,7 @@
   <br />Check Windows services and their current status.<br /><br /><b>Get-Service</b>
 </p>
 <p>
-  <script async="" crossorigin="anonymous" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5520475398835856"></script>
-  <!--decoded money first ad-->
-  <ins class="adsbygoogle" data-ad-client="ca-pub-5520475398835856" data-ad-format="auto" data-ad-slot="8395802249" data-full-width-responsive="true" style="display: block;"></ins>
-  <script>
-    (adsbygoogle = window.adsbygoogle || []).push({});
-  </script>
+ 
   <b><br /></b>
 </p>
 <div class="separator" style="clear: both; text-align: center;">
@@ -49,11 +44,7 @@
 </div>
 <br />
 <p></p>
-<script async="" crossorigin="anonymous" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5520475398835856"></script>
-<ins class="adsbygoogle" data-ad-client="ca-pub-5520475398835856" data-ad-format="fluid" data-ad-layout="in-article" data-ad-slot="2290560912" style="display: block; text-align: center;"></ins>
-<script>
-  (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+
 <p></p>
 <p><br /><br /></p>
 <h4 style="text-align: left;">3. Get-ComputerInfo</h4>
@@ -68,11 +59,8 @@
 <br />
 <p></p>
 <p></p>
-<script async="" crossorigin="anonymous" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5520475398835856"></script>
-<ins class="adsbygoogle" data-ad-client="ca-pub-5520475398835856" data-ad-format="fluid" data-ad-layout="in-article" data-ad-slot="2290560912" style="display: block; text-align: center;"></ins>
-<script>
-  (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+
+
 <p></p>
 <p></p>
 <h4 style="text-align: left;">4. Get-WinEvent</h4>
